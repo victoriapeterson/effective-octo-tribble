@@ -1,0 +1,54 @@
+html{
+    background-color: grey;
+    height: 800px;
+}
+
+
+header {
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    border-bottom: black;
+    position: fixed;
+     border-style: solid;
+}
+
+ .Box1 {
+     width: 200px;
+     height: 200px;
+     margin: 20px;
+     background-color: white;
+ }
+
+.Box2 {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: white;
+}
+.Box3 {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: white;
+}
+
+.Box4 {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: white;
+}
+
+.footer {
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    border-top: 2px;
+    border: black;
+}
+h1 {
+    background-color: white;
+    text-align: center;
+}
